@@ -1,6 +1,7 @@
 # EVM Wallet Maker
 
-Python script to bulk-create wallets for Ethereum and other EVM-based blockchains.
+Python script to bulk-create wallets for Ethereum and other EVM-based blockchains. <br /> 
+The script will generate a CSV file containing the wallet addresses and private keys.
 
 ## Usage
 
@@ -23,5 +24,3 @@ python -m pip install web3
 ```bash
 python wallet_maker.py
 ```
-
-Once these commands are executed, the script will generate a csv file containing the wallet addresses and private keys.
