@@ -30,5 +30,4 @@ python walletmaker.py
 
 ## Precaution
 
-ENSURE THAT THE CSV FILE IS STORED IN A SAFE LOCATION.<br />
-THE PRIVATE KEYS SHOULD NOT BE LEAKED TO ANYONE.
+Ensure that the CSV file is stored in a SAFE location.
